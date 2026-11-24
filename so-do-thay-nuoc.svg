@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ thay nước định kỳ và thay nước khẩn cấp</title>
+  <desc>Hình minh họa tự vẽ. Thay nước định kỳ: điểm khởi đầu 10 phần trăm mỗi tuần hoặc 25 phần trăm mỗi hai tuần, tránh thay hơn 25 phần trăm một lần thường kỳ. Thay nước khẩn cấp khi amoniac hoặc nitrit cao: thay một nửa nước mỗi ngày. Luôn khử clo và cloramin, nước mới cùng nhiệt độ với nước bể.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">THAY NƯỚC: ĐỊNH KỲ VÀ KHẨN CẤP</text>
+  <rect x="10" y="45" width="330" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+  <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">Định kỳ</text>
+  <text x="175" y="96" text-anchor="middle" font-size="14" fill="#222">10% mỗi tuần, hoặc 25% mỗi 2 tuần</text>
+  <text x="175" y="118" text-anchor="middle" font-size="14" fill="#222">Tránh thay hơn 25% một lần</text>
+  <rect x="360" y="45" width="330" height="90" rx="10" fill="#fde8e8" stroke="#b91c1c" stroke-width="1.5"/>
+  <text x="525" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a1c1c">Khẩn cấp</text>
+  <text x="525" y="96" text-anchor="middle" font-size="14" fill="#222">Amoniac hoặc nitrit cao</text>
+  <text x="525" y="118" text-anchor="middle" font-size="14" fill="#222">Thay một nửa nước mỗi ngày</text>
+  <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Luôn khử clo và cloramin — đọc nhãn, dùng sản phẩm ghi rõ xử lý cả hai</text>
+  <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Nước mới cùng nhiệt độ với nước bể — mục tiêu amoniac và nitrit là 0 mg/L</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+</svg>

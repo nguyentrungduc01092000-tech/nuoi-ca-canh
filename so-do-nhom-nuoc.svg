@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ hai nhóm nước cho người mới nuôi cá cảnh</title>
+  <desc>Hình minh họa tự vẽ. Nhóm nước cứng, hơi kiềm gồm cá bảy màu, cá mún, cá molly. Nhóm nước mềm, hơi chua gồm cá neon, cá neon chỉ đỏ, cá tam giác, cá ngựa vằn, cá anh đào, cá chuột. Cá betta nuôi riêng một con đực một mình.</desc>
+  <rect x="10" y="10" width="330" height="180" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="2"/>
+  <text x="175" y="42" text-anchor="middle" font-size="17" font-weight="bold" fill="#14506b">NƯỚC CỨNG, HƠI KIỀM</text>
+  <text x="175" y="66" text-anchor="middle" font-size="14" fill="#333">pH khoảng 7–8,5</text>
+  <text x="175" y="100" text-anchor="middle" font-size="15" fill="#222">Cá bảy màu</text>
+  <text x="175" y="126" text-anchor="middle" font-size="15" fill="#222">Cá mún</text>
+  <text x="175" y="152" text-anchor="middle" font-size="15" fill="#222">Cá molly</text>
+  <rect x="360" y="10" width="330" height="180" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="2"/>
+  <text x="525" y="42" text-anchor="middle" font-size="17" font-weight="bold" fill="#7a4d05">NƯỚC MỀM, HƠI CHUA</text>
+  <text x="525" y="66" text-anchor="middle" font-size="14" fill="#333">pH khoảng 4–7,5</text>
+  <text x="525" y="96" text-anchor="middle" font-size="15" fill="#222">Cá neon · Cá neon chỉ đỏ</text>
+  <text x="525" y="122" text-anchor="middle" font-size="15" fill="#222">Cá tam giác · Cá ngựa vằn</text>
+  <text x="525" y="148" text-anchor="middle" font-size="15" fill="#222">Cá anh đào · Cá chuột</text>
+  <text x="525" y="172" text-anchor="middle" font-size="13" fill="#555">bơi theo đàn, nước mềm ổn định</text>
+  <rect x="10" y="205" width="680" height="60" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="232" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Một bể chỉ có một loại nước — chọn một nhóm rồi chọn cá trong nhóm đó</text>
+  <text x="350" y="254" text-anchor="middle" font-size="14" fill="#444">Cá betta đứng riêng: nuôi một con đực một mình, có lọc và sưởi, không nuôi chung</text>
+</svg>

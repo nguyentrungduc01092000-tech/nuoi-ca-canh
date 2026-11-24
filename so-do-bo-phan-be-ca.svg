@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ các bộ phận chính của một bể cá</title>
+  <desc>Hình minh họa tự vẽ. Năm bộ phận chính: bể kính đủ lớn; lọc sinh học là quan trọng nhất; sưởi có bộ điều nhiệt kèm nhiệt kế riêng kiểm tra mỗi ngày; đèn 8 đến 10 giờ mỗi ngày, tắt vào ban đêm; nền cát mịn hoặc sỏi tròn, hợp với loài cá nuôi.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CÁC BỘ PHẬN CHÍNH CỦA MỘT BỂ CÁ</text>
+  <g font-size="14" fill="#222">
+    <rect x="10" y="45" width="130" height="110" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+    <text x="75" y="80" text-anchor="middle" font-weight="bold">Bể kính</text>
+    <text x="75" y="104" text-anchor="middle">Đủ lớn, mặt</text>
+    <text x="75" y="124" text-anchor="middle">nước rộng</text>
+    <rect x="150" y="45" width="130" height="110" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+    <text x="215" y="80" text-anchor="middle" font-weight="bold">Lọc</text>
+    <text x="215" y="104" text-anchor="middle">Lọc sinh học là</text>
+    <text x="215" y="124" text-anchor="middle">quan trọng nhất</text>
+    <rect x="290" y="45" width="130" height="110" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+    <text x="355" y="80" text-anchor="middle" font-weight="bold">Sưởi + nhiệt kế</text>
+    <text x="355" y="104" text-anchor="middle">Có bộ điều nhiệt,</text>
+    <text x="355" y="124" text-anchor="middle">kiểm tra mỗi ngày</text>
+    <rect x="430" y="45" width="130" height="110" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+    <text x="495" y="80" text-anchor="middle" font-weight="bold">Đèn</text>
+    <text x="495" y="104" text-anchor="middle">8–10 giờ mỗi ngày,</text>
+    <text x="495" y="124" text-anchor="middle">tắt vào ban đêm</text>
+    <rect x="570" y="45" width="120" height="110" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+    <text x="630" y="80" text-anchor="middle" font-weight="bold">Nền</text>
+    <text x="630" y="104" text-anchor="middle">Cát mịn hoặc</text>
+    <text x="630" y="124" text-anchor="middle">sỏi tròn, sạch</text>
+  </g>
+  <text x="350" y="185" text-anchor="middle" font-size="15" fill="#222">Đặt bể trên mặt phẳng chắc chắn, tránh ánh nắng trực tiếp và nguồn nhiệt</text>
+  <text x="350" y="212" text-anchor="middle" font-size="14" fill="#555">Sưởi phải ngập hoàn toàn trong nước trước khi cắm điện (hướng dẫn Eheim Jäger)</text>
+  <text x="350" y="240" text-anchor="middle" font-size="14" fill="#555">Không rửa vật liệu lọc dưới vòi nước máy — clo giết vi khuẩn có ích</text>
+</svg>

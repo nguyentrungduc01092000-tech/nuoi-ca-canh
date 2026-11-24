@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300" role="img">
+  <title>Sơ đồ sáu nguyên nhân có thể khiến cá neon chết hàng loạt</title>
+  <desc>Hình minh họa tự vẽ. Sáu nguyên nhân: bể chưa chạy lọc xong; clo hoặc cloramin trong nước thay vào; sốc nhiệt độ và pH khi thả cá; cá mua về đã yếu hoặc mang bệnh; nuôi quá ít con, bể quá nhỏ hoặc quá sáng; cho ăn sai, quá nhiều hoặc thức ăn quá to.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">6 NGUYÊN NHÂN CÓ THỂ</text>
+  <g font-size="14" fill="#222">
+    <rect x="10" y="45" width="220" height="100" rx="10" fill="#fdecea" stroke="#b03a2e" stroke-width="1.5"/>
+    <text x="120" y="80" text-anchor="middle" font-weight="bold">1. Bể chưa chạy lọc xong</text>
+    <text x="120" y="104" text-anchor="middle">Amoniac và nitrit còn cao</text>
+    <rect x="240" y="45" width="220" height="100" rx="10" fill="#fdecea" stroke="#b03a2e" stroke-width="1.5"/>
+    <text x="350" y="80" text-anchor="middle" font-weight="bold">2. Clo hoặc cloramin</text>
+    <text x="350" y="104" text-anchor="middle">Trong nước thay vào chưa khử</text>
+    <rect x="470" y="45" width="220" height="100" rx="10" fill="#fdecea" stroke="#b03a2e" stroke-width="1.5"/>
+    <text x="580" y="80" text-anchor="middle" font-weight="bold">3. Sốc nhiệt độ, pH</text>
+    <text x="580" y="104" text-anchor="middle">Khi thả cá từ túi vào bể</text>
+    <rect x="10" y="160" width="220" height="100" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+    <text x="120" y="195" text-anchor="middle" font-weight="bold">4. Cá đã yếu, mang bệnh</text>
+    <text x="120" y="219" text-anchor="middle">Bệnh neon tetra gần như</text>
+    <text x="120" y="239" text-anchor="middle">không chữa được khi nặng</text>
+    <rect x="240" y="160" width="220" height="100" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+    <text x="350" y="195" text-anchor="middle" font-weight="bold">5. Quá ít con, bể nhỏ</text>
+    <text x="350" y="219" text-anchor="middle">Hoặc bể quá sáng, thiếu chỗ trốn</text>
+    <rect x="470" y="160" width="220" height="100" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+    <text x="580" y="195" text-anchor="middle" font-weight="bold">6. Cho ăn sai</text>
+    <text x="580" y="219" text-anchor="middle">Quá nhiều, hoặc thức ăn quá to</text>
+  </g>
+  <text x="350" y="288" text-anchor="middle" font-size="13" fill="#555">Chẩn đoán bằng kết quả đo nước, không đoán theo cảm giác</text>
+</svg>

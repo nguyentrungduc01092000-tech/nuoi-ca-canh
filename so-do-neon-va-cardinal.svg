@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ so sánh cá neon và cá cardinal</title>
+  <desc>Hình minh họa tự vẽ. Vệt đỏ của cá neon chỉ dài tới nửa thân, vệt đỏ của cá cardinal chạy suốt thân. Cá neon 21–25 độ C, cá cardinal 23–29 độ C theo Seriously Fish; khoảng giao nhau hai loài là 23–25 độ C. Cả hai đều nuôi theo đàn, bể đã chạy ít nhất 3 tháng mới hợp nuôi neon.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CÁ NEON VÀ CÁ CARDINAL</text>
+  <rect x="10" y="45" width="330" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+  <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">Cá neon</text>
+  <text x="175" y="96" text-anchor="middle" font-size="14" fill="#222">Vệt đỏ chỉ tới nửa thân</text>
+  <text x="175" y="118" text-anchor="middle" font-size="14" fill="#222">21–25 độ C, đàn 8–10 con</text>
+  <rect x="360" y="45" width="330" height="90" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+  <text x="525" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a4d05">Cá cardinal</text>
+  <text x="525" y="96" text-anchor="middle" font-size="14" fill="#222">Vệt đỏ chạy suốt thân</text>
+  <text x="525" y="118" text-anchor="middle" font-size="14" fill="#222">23–29 độ C, cần nước ấm hơn</text>
+  <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Khoảng giao nhau hai loài: 23–25 độ C — nuôi chung giữ nhiệt độ thật ổn định</text>
+  <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Bể đầu tiên không nuôi chung neon và cardinal; người có kinh nghiệm mới thử nuôi chung</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+</svg>

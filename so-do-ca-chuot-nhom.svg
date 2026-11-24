@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ nuôi cá chuột theo nhóm trên nền cát</title>
+  <desc>Hình minh họa tự vẽ. Cá chuột đồng nuôi theo nhóm ít nhất 6 con cùng loài, nền cát mịn để bảo vệ râu cá, nhiệt độ 22–27 độ C, pH 6,0–7,5. Cho ăn viên chìm xuống đáy, cá chuột panda chỉ chịu tới 25 độ C lâu dài nên nuôi riêng nhóm nước mát hơn.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CÁ CHUỘT NUÔI THEO NHÓM</text>
+  <rect x="10" y="45" width="330" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+  <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">Nhóm cùng loài</text>
+  <text x="175" y="96" text-anchor="middle" font-size="14" fill="#222">Ít nhất 6 con cá chuột đồng</text>
+  <text x="175" y="118" text-anchor="middle" font-size="14" fill="#222">Đừng nuôi lẻ một con</text>
+  <rect x="360" y="45" width="330" height="90" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+  <text x="525" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a4d05">Nền và nước</text>
+  <text x="525" y="96" text-anchor="middle" font-size="14" fill="#222">Nền cát mịn, 22–27 độ C</text>
+  <text x="525" y="118" text-anchor="middle" font-size="14" fill="#222">pH 6,0–7,5, cho viên chìm</text>
+  <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Lưu ý: cá chuột panda chỉ chịu tới 25 độ C lâu dài</text>
+  <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Râu cá mòn có thể do nền sắc hoặc nước kém — đo nước, kiểm tra nền, hỏi người có kinh nghiệm</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+</svg>

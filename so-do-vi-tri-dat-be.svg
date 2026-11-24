@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ chọn vị trí đặt bể và chân bể</title>
+  <desc>Hình minh họa tự vẽ. Đừng đặt bể cạnh cửa sổ vì nắng làm nhiệt độ nước tăng tới mức nguy hiểm theo RSPCA. Mặt đặt bể phải phẳng, vững và chịu được trọng lượng: 1 lít nước nặng khoảng 1 kg, bể 60 lít là khoảng 60 kg nước chưa tính bể, nền và chân bể. Cần gần nguồn điện và nước, đủ khoảng trống thao tác, yên tĩnh và ít người qua lại.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CHỌN VỊ TRÍ ĐẶT BỂ</text>
+  <rect x="10" y="45" width="330" height="90" rx="10" fill="#fde8e8" stroke="#b91c1c" stroke-width="1.5"/>
+  <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a1c1c">Tránh</text>
+  <text x="175" y="96" text-anchor="middle" font-size="14" fill="#222">Cạnh cửa sổ — nắng làm nước nóng</text>
+  <text x="175" y="118" text-anchor="middle" font-size="14" fill="#222">Nơi rung, ồn, nhiều người qua lại</text>
+  <rect x="360" y="45" width="330" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+  <text x="525" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">Cần có</text>
+  <text x="525" y="96" text-anchor="middle" font-size="14" fill="#222">Mặt phẳng, vững, chịu lực tốt</text>
+  <text x="525" y="118" text-anchor="middle" font-size="14" fill="#222">Gần điện, gần nước, đủ chỗ thao tác</text>
+  <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">1 lít nước nặng khoảng 1 kg — bể 60 lít là khoảng 60 kg nước chưa tính bể và chân</text>
+  <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Kiểm tra checklist trước khi đổ nước: mặt phẳng, chân vững, điện an toàn, đủ chỗ thay nước</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+</svg>

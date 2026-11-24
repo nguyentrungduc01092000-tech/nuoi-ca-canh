@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ ba tầng bơi trong bể cá và loại thức ăn cho mỗi tầng</title>
+  <desc>Hình minh họa tự vẽ. Tầng mặt: cá bảy màu ăn cám nổi. Tầng giữa: cá mún và cá neon ăn cám và viên nhỏ. Tầng đáy: cá chuột ăn viên chìm. Cho lượng cá ăn hết trong 2 đến 3 phút, vớt thức ăn thừa sau 5 phút.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CHO ĂN THEO TẦNG BƠI</text>
+  <rect x="10" y="45" width="680" height="60" rx="10" fill="#dbeafe" stroke="#2a5a9e" stroke-width="1.5"/>
+  <text x="30" y="72" font-size="16" font-weight="bold" fill="#14506b">Tầng mặt</text>
+  <text x="30" y="94" font-size="14" fill="#222">Cá bảy màu — cám nổi, ăn hết trong 2–3 phút</text>
+  <rect x="10" y="115" width="680" height="60" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+  <text x="30" y="142" font-size="16" font-weight="bold" fill="#14506b">Tầng giữa</text>
+  <text x="30" y="164" font-size="14" fill="#222">Cá mún, cá neon — cám và viên nhỏ, ăn hết trong 2–3 phút</text>
+  <rect x="10" y="185" width="680" height="60" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+  <text x="30" y="212" font-size="16" font-weight="bold" fill="#7a4d05">Tầng đáy</text>
+  <text x="30" y="234" font-size="14" fill="#222">Cá chuột — viên chìm, cho sau khi cá tầng trên đã ăn</text>
+  <text x="350" y="268" text-anchor="middle" font-size="13" fill="#555">Vớt thức ăn thừa sau 5 phút — thiếu ăn tốt hơn thừa ăn, nhất là bể mới</text>
+</svg>

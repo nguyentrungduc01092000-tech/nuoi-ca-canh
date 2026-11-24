@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ cách ly và làm quen nước cho cá mới mua về</title>
+  <desc>Hình minh họa tự vẽ. Cá mới mua về cần cách ly trước khi thả vào bể chung: AcuarioSano ghi 2–4 tuần, Sổ tay Thú y MSD và UF ghi tối thiểu 30 ngày, Aquarium Science ghi 4–8 tuần — bài lấy bốn tuần làm mục tiêu. Làm quen nước bằng cách nhỏ giọt 45 phút–2 giờ cho cá nhạy cảm. Theo dõi mỗi ngày trong 4 tuần cách ly, hỏi bác sĩ thú y chuyên về cá khi có dấu hiệu nặng, không dùng thuốc phòng ngừa khi chưa chẩn đoán.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CÁ MỚI MUA VỀ: CÁCH LY TRƯỚC</text>
+  <rect x="10" y="45" width="330" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
+  <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">1. Cách ly</text>
+  <text x="175" y="96" text-anchor="middle" font-size="14" fill="#222">Bể riêng, mục tiêu 4 tuần</text>
+  <text x="175" y="118" text-anchor="middle" font-size="14" fill="#222">Tối thiểu 30 ngày theo MSD/UF</text>
+  <rect x="360" y="45" width="330" height="90" rx="10" fill="#fdf3e3" stroke="#b97a1e" stroke-width="1.5"/>
+  <text x="525" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a4d05">2. Làm quen nước</text>
+  <text x="525" y="96" text-anchor="middle" font-size="14" fill="#222">Nhỏ giọt 45 phút–2 giờ</text>
+  <text x="525" y="118" text-anchor="middle" font-size="14" fill="#222">Cho cá nhạy cảm</text>
+  <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Theo dõi mỗi ngày trong 4 tuần cách ly: ăn, bơi, vây, da, mang</text>
+  <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Không dùng thuốc phòng ngừa khi chưa chẩn đoán — hỏi bác sĩ thú y chuyên về cá</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
+  <title>Sơ đồ chọn đèn và cây thủy sinh dễ sống cho bể mới</title>
+  <desc>Hình minh họa tự vẽ. Đèn bật 8–10 giờ mỗi ngày theo RSPCA, tắt đèn đúng giờ để hạn chế rêu hại. Cây dễ sống cho bể mới không cần bơm CO2, chọn cây theo ánh sáng bể đang có. Nhiệt độ cây giữ nguyên độ F như nguồn, không tự quy đổi sang độ C.</desc>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">ĐÈN VÀ CÂY DỄ SỐNG CHO BỂ MỚI</text>
+  <rect x="10" y="45" width="330" height="90" rx="10" fill="#fef9c3" stroke="#a16207" stroke-width="1.5"/>
+  <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#713f12">Đèn</text>
+  <text x="175" y="96" text-anchor="middle" font-size="14" fill="#222">Bật 8–10 giờ mỗi ngày</text>
+  <text x="175" y="118" text-anchor="middle" font-size="14" fill="#222">Tắt đúng giờ, hạn chế rêu hại</text>
+  <rect x="360" y="45" width="330" height="90" rx="10" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text x="525" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14532d">Cây dễ sống</text>
+  <text x="525" y="96" text-anchor="middle" font-size="14" fill="#222">Không cần bơm CO2</text>
+  <text x="525" y="118" text-anchor="middle" font-size="14" fill="#222">Chọn cây theo ánh sáng bể có</text>
+  <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
+  <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Cây héo, lá vàng: xem lại đèn, dinh dưỡng và nước trước khi đổi cây</text>
+  <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Nhiệt độ cây trong bài giữ nguyên độ F như nguồn, không tự quy đổi sang độ C</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+</svg>
