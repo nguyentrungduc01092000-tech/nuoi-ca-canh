@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
 <title id="title">Sơ đồ chu trình nitơ trong bể cá</title>
-<desc id="desc">Hình minh họa tự vẽ: thức ăn thừa và chất thải của cá tạo ra amoniac rất độc, vi khuẩn nhóm 1 chuyển amoniac thành nitrit cũng độc, vi khuẩn nhóm 2 chuyển nitrit thành nitrat ít độc hơn, nitrat được loại bớt bằng cách thay nước định kỳ. Mức an toàn của amoniac và nitrit là 0 mg/L theo RSPCA.</desc>
+<desc id="desc">Hình minh họa được vẽ riêng cho website: thức ăn thừa và chất thải của cá tạo ra amoniac rất độc, vi khuẩn nhóm 1 chuyển amoniac thành nitrit cũng độc, vi khuẩn nhóm 2 chuyển nitrit thành nitrat ít độc hơn, nitrat được loại bớt bằng cách thay nước định kỳ. Mức an toàn của amoniac và nitrit là 0 mg/L theo RSPCA.</desc>
 <rect width="720" height="360" fill="#f4f9fb"/>
 <text x="360" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#123">Chu trình nitơ trong bể cá</text>
-<text x="360" y="56" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#456">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+<text x="360" y="56" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#456">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp bể thật</text>
 <rect x="40" y="90" width="140" height="70" rx="8" fill="#fff" stroke="#123" stroke-width="2"/>
 <text x="110" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#123">Thức ăn thừa</text>
 <text x="110" y="138" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#123">+ chất thải cá</text>

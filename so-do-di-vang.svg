@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
   <title>Sơ đồ cho cá ăn khi đi vắng</title>
-  <desc>Hình minh họa tự vẽ. Cá trưởng thành khỏe mạnh nhịn ăn được 7–10 ngày theo MonitorAkwarum, vì vậy đi vắng ngắn ngày thường không cần cho ăn thêm. Đi vắng dài ngày: dùng máy cho ăn tự động, viên tan chậm, hoặc nhờ người chăm có dặn dò rõ ràng. Đèn khi đi vắng để 6–8 giờ mỗi ngày, kiểm tra lọc và nước trước khi đi.</desc>
+  <desc>Hình minh họa được vẽ riêng cho website. Cá trưởng thành khỏe mạnh nhịn ăn được 7–10 ngày theo MonitorAkwarum, vì vậy đi vắng ngắn ngày thường không cần cho ăn thêm. Đi vắng dài ngày: dùng máy cho ăn tự động, viên tan chậm, hoặc nhờ người chăm có dặn dò rõ ràng. Đèn khi đi vắng để 6–8 giờ mỗi ngày, kiểm tra lọc và nước trước khi đi.</desc>
   <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">ĐI VẮNG: CHO CÁ ĂN THẾ NÀO</text>
   <rect x="10" y="45" width="330" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
   <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">Vắng ngắn ngày</text>
@@ -13,5 +13,5 @@
   <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
   <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Trước khi đi: thay nước, đo nước, kiểm tra lọc, hẹn giờ đèn 6–8 giờ mỗi ngày</text>
   <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Đừng cho ăn bù thật nhiều trước khi đi — thừa ăn làm nước bẩn nhanh hơn</text>
-  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp bể thật</text>
 </svg>

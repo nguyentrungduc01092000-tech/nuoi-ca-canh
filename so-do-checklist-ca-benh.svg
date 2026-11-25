@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
   <title>Sơ đồ checklist khi cá bỏ ăn, bơi lờ đờ hoặc cạ mình</title>
-  <desc>Hình minh họa tự vẽ. Checklist chẩn đoán nhanh: bước 1 đo nước gồm amoniac, nitrit, pH và nhiệt độ; bước 2 quan sát cá gồm ăn, bơi, vây, da và mang; bước 3 xem lại thay đổi gần đây gồm cá mới, thức ăn, vệ sinh lọc; bước 4 hỏi cửa hàng thủy sinh uy tín hoặc bác sĩ thú y chuyên về cá trước khi mua thuốc.</desc>
+  <desc>Hình minh họa được vẽ riêng cho website. Checklist chẩn đoán nhanh: bước 1 đo nước gồm amoniac, nitrit, pH và nhiệt độ; bước 2 quan sát cá gồm ăn, bơi, vây, da và mang; bước 3 xem lại thay đổi gần đây gồm cá mới, thức ăn, vệ sinh lọc; bước 4 hỏi cửa hàng thủy sinh uy tín hoặc bác sĩ thú y chuyên về cá trước khi mua thuốc.</desc>
   <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CÁ BỎ ĂN, LỜ ĐỜ, CẠ MÌNH: 4 BƯỚC</text>
   <rect x="10" y="45" width="330" height="60" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
   <text x="30" y="72" font-size="15" font-weight="bold" fill="#14506b">1. Đo nước</text>
@@ -16,5 +16,5 @@
   <text x="380" y="164" font-size="14" fill="#222">Cửa hàng uy tín hoặc bác sĩ thú y cá</text>
   <rect x="10" y="190" width="680" height="60" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
   <text x="350" y="216" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Đo nước trước, đừng mua thuốc trước khi biết nước có vấn đề gì</text>
-  <text x="350" y="238" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+  <text x="350" y="238" text-anchor="middle" font-size="13" fill="#555">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp bể thật</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
   <title>Sơ đồ so sánh lọc treo, lọc trong và lọc thùng</title>
-  <desc>Hình minh họa tự vẽ. Lọc treo và lọc trong hợp bể nhỏ và vừa; lọc thùng hợp bể lớn, ngưỡng dùng lọc thùng theo hai nguồn là từ khoảng 151 lít (DBC, 40 gallon) tới khoảng 208 lít (TheCycledTank, 55 gallon). Lưu lượng cho bể nuôi nhiều cá là 4–6 lần thể tích bể mỗi giờ; bể 60 lít cần 240–360 lít mỗi giờ. Rửa vật liệu lọc bằng nước lấy từ bể, không thay hết vật liệu sinh học cùng một lúc.</desc>
+  <desc>Hình minh họa được vẽ riêng cho website. Lọc treo và lọc trong hợp bể nhỏ và vừa; lọc thùng hợp bể lớn, ngưỡng dùng lọc thùng theo hai nguồn là từ khoảng 151 lít (DBC, 40 gallon) tới khoảng 208 lít (TheCycledTank, 55 gallon). Lưu lượng cho bể nuôi nhiều cá là 4–6 lần thể tích bể mỗi giờ; bể 60 lít cần 240–360 lít mỗi giờ. Rửa vật liệu lọc bằng nước lấy từ bể, không thay hết vật liệu sinh học cùng một lúc.</desc>
   <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">LỌC TREO, LỌC TRONG, LỌC THÙNG</text>
   <rect x="10" y="45" width="210" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
   <text x="115" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14506b">Lọc treo</text>
@@ -17,5 +17,5 @@
   <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
   <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Lưu lượng: 4–6 lần thể tích bể mỗi giờ — bể 60 lít cần 240–360 lít mỗi giờ</text>
   <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Rửa vật liệu lọc bằng nước lấy từ bể, không thay hết vật liệu sinh học cùng một lúc</text>
-  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa tự vẽ — không phải ảnh chụp bể thật</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp bể thật</text>
 </svg>
