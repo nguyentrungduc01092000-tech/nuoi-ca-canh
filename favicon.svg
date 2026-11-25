@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <title>Biểu tượng website Nuôi cá cảnh cho người mới</title>
-  <desc>Hình vuông bo góc màu xanh nước, bên trong là hình cá trắng đơn giản và hai gợn sóng.</desc>
-  <rect x="2" y="2" width="60" height="60" rx="14" fill="#14506b"/>
+  <desc>Hình vuông bo góc màu đỏ betta, bên trong là hình cá trắng đơn giản và hai gợn sóng.</desc>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#b91c1c"/>
   <path d="M14 34c6-9 14-13 22-11 4 1 7 3 9 6l7-4-3 8 3 8-7-4c-2 3-5 5-9 6-8 2-16-2-22-11z" fill="#fff"/>
-  <circle cx="24" cy="33" r="2.4" fill="#14506b"/>
-  <path d="M16 48c5-3 9-3 14 0M34 48c5-3 9-3 14 0" stroke="#bfe0ec" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="24" cy="33" r="2.4" fill="#b91c1c"/>
+  <path d="M16 48c5-3 9-3 14 0M34 48c5-3 9-3 14 0" stroke="#fecaca" stroke-width="2.5" fill="none" stroke-linecap="round"/>
 </svg>
