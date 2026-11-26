@@ -1,4 +1,3 @@
-/* 25/11/2026, chong "mot khuon" (LENH TONG HOP muc 16-17): mau chu dao rieng #b91c1c (do betta), thay mau xanh nuoc cu. Do tuong phan: trang tren #b91c1c = 6,47:1; #fee2e2 tren #b91c1c = 5,3:1. */
 *{box-sizing:border-box}
 body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.7;color:#222;margin:0;background:#fdf8f6}
 header{background:#b91c1c;color:#fff;padding:1rem 1rem .5rem}
@@ -27,10 +26,6 @@ figcaption{font-size:.9rem;color:#555;margin-top:.4rem}
 ul,ol{margin:.6rem 0;padding-left:1.4rem}
 li{margin:.3rem 0}
 a{color:#b91c1c;overflow-wrap:anywhere}
-/* Sửa 23/11/2026, lỗi L-3: URL dài ở mục Nguồn tham khảo (vd link RSPCA,
-   Seriously Fish) không gãy dòng, làm trang bài tràn ngang tới 664px trên
-   điện thoại 390px. overflow-wrap:anywhere cho phép gãy URL tại bất cứ
-   chỗ nào khi cần; bảng rộng vẫn cuộn trong .table-wrap như cũ. */
 footer{border-top:1px solid #ddd;padding:1rem;text-align:center;color:#555;font-size:.9rem}
 footer a{color:#b91c1c}
 .cat-list{list-style:none;padding-left:0}

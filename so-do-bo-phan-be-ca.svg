@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
   <title>Sơ đồ các bộ phận chính của một bể cá</title>
-  <desc>Hình minh họa được vẽ riêng cho website. Năm bộ phận chính: bể kính đủ lớn; lọc sinh học là quan trọng nhất; sưởi có bộ điều nhiệt kèm nhiệt kế riêng kiểm tra mỗi ngày; đèn 8 đến 10 giờ mỗi ngày, tắt vào ban đêm; nền cát mịn hoặc sỏi tròn, hợp với loài cá nuôi.</desc>
+  <desc>Năm bộ phận chính: bể kính đủ lớn; lọc sinh học là quan trọng nhất; sưởi có bộ điều nhiệt kèm nhiệt kế riêng kiểm tra mỗi ngày; đèn 8 đến 10 giờ mỗi ngày, tắt vào ban đêm; nền cát mịn hoặc sỏi tròn, hợp với loài cá nuôi.</desc>
   <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">CÁC BỘ PHẬN CHÍNH CỦA MỘT BỂ CÁ</text>
   <g font-size="14" fill="#222">
     <rect x="10" y="45" width="130" height="110" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>

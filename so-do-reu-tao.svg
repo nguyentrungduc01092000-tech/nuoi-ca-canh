@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
   <title>Sơ đồ rêu tảo trong bể và cách giảm không dùng thuốc</title>
-  <desc>Hình minh họa được vẽ riêng cho website. Rêu tảo bám trên kính, lá, đá và lũa khác với tảo lơ lửng làm nước xanh đã viết ở “Nước bể đục trắng, đục xanh”. Cách giảm không dùng thuốc: giảm giờ đèn, đo nitrat và phốt phát trước khi đổi liều phân bón, thay nước một phần, cạo kính và vệ sinh lá đá. Hỏi chuyên môn trước khi dùng oxy già, carbon lỏng hay kháng sinh.</desc>
+  <desc>Rêu tảo bám trên kính, lá, đá và lũa khác với tảo lơ lửng làm nước xanh đã viết ở “Nước bể đục trắng, đục xanh”. Cách giảm không dùng thuốc: giảm giờ đèn, đo nitrat và phốt phát trước khi đổi liều phân bón, thay nước một phần, cạo kính và vệ sinh lá đá. Hỏi chuyên môn trước khi dùng oxy già, carbon lỏng hay kháng sinh.</desc>
   <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">RÊU TẢO: GIẢM KHÔNG DÙNG THUỐC</text>
   <rect x="10" y="45" width="330" height="90" rx="10" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
   <text x="175" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#14532d">Tìm nguyên nhân</text>
@@ -13,5 +13,5 @@
   <rect x="10" y="150" width="680" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
   <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Rêu tảo bám khác tảo lơ lửng làm nước xanh — nước xanh xem “Nước bể đục trắng, đục xanh”</text>
   <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Hỏi chuyên môn trước khi dùng oxy già, carbon lỏng hay kháng sinh</text>
-  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp bể thật</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Sơ đồ rêu tảo trong bể.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img">
   <title>Sơ đồ phân biệt nước bể đục trắng, đục xanh và đục nâu</title>
-  <desc>Hình minh họa được vẽ riêng cho website. Đục trắng: vi khuẩn tăng mạnh trong bể mới, thường tự hết sau 2–10 ngày tới 1–2 tuần tùy nguồn, tránh thay nước lớn trong lúc này. Đục xanh: tảo trong nước, giảm sáng và kiểm tra dinh dưỡng thừa. Đục nâu: cặn lơ lửng, hút cặn nền và kiểm tra lọc. Đo nước trước khi xử lý.</desc>
+  <desc>Đục trắng: vi khuẩn tăng mạnh trong bể mới, thường tự hết sau 2–10 ngày tới 1–2 tuần tùy nguồn, tránh thay nước lớn trong lúc này. Đục xanh: tảo trong nước, giảm sáng và kiểm tra dinh dưỡng thừa. Đục nâu: cặn lơ lửng, hút cặn nền và kiểm tra lọc. Đo nước trước khi xử lý.</desc>
   <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">NƯỚC ĐỤC: NHÌN MÀU RỒI MỚI XỬ LÝ</text>
   <rect x="10" y="45" width="210" height="90" rx="10" fill="#f2f2f2" stroke="#888" stroke-width="1.5"/>
   <text x="115" y="72" text-anchor="middle" font-size="16" font-weight="bold" fill="#222">Đục trắng</text>
@@ -17,5 +17,5 @@
   <rect x="10" y="150" width="680" height="90" rx="10" fill="#e8f4f8" stroke="#2a7a9e" stroke-width="1.5"/>
   <text x="350" y="178" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Đo nước trước khi xử lý: amoniac, nitrit, nitrat, pH, nhiệt độ</text>
   <text x="350" y="202" text-anchor="middle" font-size="14" fill="#444">Đục trắng do vi khuẩn: các nguồn không thống nhất về thay nước — xem chi tiết trong bài</text>
-  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp bể thật</text>
+  <text x="350" y="226" text-anchor="middle" font-size="13" fill="#555">Sơ đồ phân biệt nước đục.</text>
 </svg>
